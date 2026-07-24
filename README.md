@@ -22,15 +22,20 @@
 
 ## Основные проекты
 
-### EducationCenter
+### [EducationCenter](https://github.com/sibcoww/EducationCenter)
 
 Учебный ASP.NET Core Web API для управления образовательным центром:
 студентами, группами, преподавателями, курсами и предметами.
 
-### Jarvis Assistant
+### [Jarvis Assistant](https://github.com/sibcoww/jarvis-assistant)
 
 Голосовой ассистент для Windows на Python с локальным распознаванием
 речи и управлением приложениями.
+
+### [KishkiMap](https://github.com/sibcoww/kishkimap-mobile)
+
+Мобильное приложение на .NET MAUI для просмотра интересных мест
+и построения маршрутов.
 
 ## Контакты
 
