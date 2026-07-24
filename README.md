@@ -1,16 +1,38 @@
-## Hi there 👋
+# Привет, я Ермек 👋
 
-<!--
-**sibcoww/sibcoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий C#/.NET backend-разработчик из Астаны.
 
-Here are some ideas to get you started:
+Ищу стажировку или Junior-позицию. Рассматриваю офисный,
+гибридный и удалённый формат работы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основной стек
+
+- C#, .NET, ASP.NET Core Web API
+- Entity Framework Core
+- PostgreSQL, SQL
+- REST API, DTO, Swagger
+- Git, GitHub
+- Unit-тестирование
+
+## Дополнительно
+
+- Python
+- C++
+- HTML, CSS
+
+## Основные проекты
+
+### EducationCenter
+
+Учебный ASP.NET Core Web API для управления образовательным центром:
+студентами, группами, преподавателями, курсами и предметами.
+
+### Jarvis Assistant
+
+Голосовой ассистент для Windows на Python с локальным распознаванием
+речи и управлением приложениями.
+
+## Контакты
+
+- Telegram: @sibcoww
+- Email: ermek.zhubataev@gmail.com
