@@ -1,8 +1,8 @@
 # O_O
 
-Меня зовут **Ермек**. Я начинающий **Junior C#/.NET Developer | Backend & Desktop**, развиваюсь в направлениях **Backend** и **Desktop-разработки**.
+Меня зовут **Ермек**. Я **Junior C#/.NET Developer**, развиваюсь в направлениях **Backend** и **Desktop-разработки**.
 
-Разрабатываю REST API и Windows-приложения, работаю с базами данных, Entity Framework Core, WPF, SQLite и PostgreSQL. Также есть опыт работы с Python, REST API и AI-инструментами.
+Разрабатываю REST API, Telegram-ботов и Windows-приложения. Работаю с ASP.NET Core, Entity Framework Core, PostgreSQL, SQLite и WPF. Также есть опыт работы с Python, REST API и AI-инструментами.
 
 ## 🛠 Технологии
 
@@ -10,7 +10,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -32,10 +32,11 @@
 
 | Проект | Описание | Технологии |
 |---|---|---|
-| [**Oqu Time**](https://github.com/sibcoww/oqu-time) | Windows-приложение для автоматического составления школьного расписания. Поддерживает импорт данных из Excel, генерацию расписания с учётом ограничений, SQLite, экспорт в Excel/PDF, тесты и Windows-установщик. | C#, .NET, WPF, SQLite, Google OR-Tools, xUnit |
+| [**RoutineEscape**](https://github.com/sibcoww/RoutineEscape) | Telegram-бот для управления задачами, событиями, напоминаниями и заметками. Поддерживает автоматический разбор сообщений, уведомления, поиск, часовые пояса и нескольких пользователей. Бот запущен на Oracle Cloud. | C#, .NET, ASP.NET Core, PostgreSQL, EF Core, Telegram Bot API |
+| [**Oqu Time**](https://github.com/sibcoww/oqu-time) | Windows-приложение для автоматического составления школьного расписания. Основная логика уже реализована: импорт данных, генерация расписания с учётом ограничений, работа с SQLite и экспорт в Excel/PDF. Проект ещё находится в разработке и требует доработки интерфейса, тестирования и проверки на реальных данных. | C#, .NET, WPF, SQLite, Google OR-Tools, xUnit |
 | [**EducationCenter**](https://github.com/sibcoww/EducationCenter) | REST API для управления студентами, группами, преподавателями, курсами и предметами. Реализованы CRUD, DTO, связи между сущностями и тесты. | C#, ASP.NET Core, EF Core, PostgreSQL, Swagger, xUnit |
-| [**Jarvis Assistant**](https://github.com/sibcoww/jarvis-assistant) | Голосовой ассистент для Windows с локальным распознаванием речи, таймерами, управлением приложениями и интеграцией с OpenAI API. | Python, Vosk, PySide6, OpenAI API |
 | [**KishkiMap**](https://github.com/sibcoww/kishkimap-mobile) | Кроссплатформенное мобильное приложение для просмотра интересных мест и построения маршрутов. | C#, .NET MAUI, XAML, REST API, Mapsui |
+| [**Jarvis Assistant**](https://github.com/sibcoww/jarvis-assistant) | Голосовой ассистент для Windows с локальным распознаванием речи, таймерами и управлением приложениями. | Python, Vosk, PySide6, OpenAI API |
 
 ## 📫 Связаться со мной
 
