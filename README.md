@@ -4,7 +4,7 @@
 
 Разрабатываю REST API, Telegram-ботов и Windows-приложения. Работаю с ASP.NET Core, Entity Framework Core, PostgreSQL, SQLite и WPF. Также есть опыт работы с Python, REST API и AI-инструментами.
 
-## 🛠 Технологии
+## Технологии
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## 🚀 Проекты
+## Проекты
 
 | Проект | Описание | Технологии |
 |---|---|---|
@@ -38,7 +38,7 @@
 | [**KishkiMap**](https://github.com/sibcoww/kishkimap-mobile) | Кроссплатформенное мобильное приложение для просмотра интересных мест и построения маршрутов. | C#, .NET MAUI, XAML, REST API, Mapsui |
 | [**Jarvis Assistant**](https://github.com/sibcoww/jarvis-assistant) | Голосовой ассистент для Windows с локальным распознаванием речи, таймерами и управлением приложениями. | Python, Vosk, PySide6, OpenAI API |
 
-## 📫 Связаться со мной
+## Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-@sibcoww-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sibcoww)
 [![Email](https://img.shields.io/badge/Email-ermek.zhubataev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ermek.zhubataev@gmail.com)
